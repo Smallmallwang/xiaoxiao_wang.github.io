@@ -21,7 +21,7 @@ repository               : "Smallmallwang/xiaoxiao_wang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"xiaoxiao.png"
+  avatar           : "xiaoxiao.png"
   name             : "Information"
   pronouns         :  "she/her"  
   bio              : "PHD at Peking University"
