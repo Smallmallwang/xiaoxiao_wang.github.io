@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 # date: 2025-01-14
 # venue: 'Journal 1'
 # slidesurl: 'http://xiaoxiao_wang.github.io/files/slides1.pdf'
-paperurl: 'http://smallmallwang.github.io/xiaoxiao_wang.github.io/files/Wang_etal_Information_Asymmetry.pdf'
+paperurl: 'http://smallmallwang.github.io/xiaoxiao_wang.github.io/tree/master/files/Wang_etal_Information_Asymmetry.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
