@@ -1,7 +1,7 @@
 ---
 title: "Information Asymmetry, Fiscal Competition and Optimal Interregional Transfer"
 collection: working papers
-category: manuscripts
+category: working papers
 permalink: /publication/2025-01-13-paper-title-number-1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2025-01-14
