@@ -22,13 +22,13 @@ repository               : "Smallmallwang/xiaoxiao_wang.github.io"
 author:
   # Biographic information
   avatar           : "xiaoxiao.png"
-  name             : "Your Sidebar Name"
+  name             : "Information"
   pronouns         :  "she/her"  
-  bio              : "lecturer"
+  bio              : "PHD at Peking University"
   location         : "China"
   employer         : "ZUEL"
   uri              : # URL
-  email            : # "wangxiaoxiao9981@163.org" 
+  email            :  "wangxiaoxiao9981@163.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
